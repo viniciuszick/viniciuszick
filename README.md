@@ -4,7 +4,7 @@
       <td align="center" style="background-color: #0d1117; padding: 40px 32px; font-family: 'Poppins', sans-serif;">
         <h1 align="center" style="border: none; margin-bottom: 8px; font-family: 'Poppins', sans-serif; font-weight: 700;">Vinícius Gabriel Zick</h1>
         <p align="center" style="color: #94a3b8; font-size: 16px; margin-top: 0; margin-bottom: 20px; font-family: 'Poppins', sans-serif; font-weight: 400;">
-          <b>Software Developer & Marketing Apprentice @ CentroWEG</b>
+          <b>Software Developer - CentroWEG & Marketing Apprentice</b>
         </p>
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=15&pause=1000&color=94A3B8&center=true&vCenter=true&width=650&lines=Aprendiz+em+Desenvolvimento+de+Sistemas+%40+CentroWEG;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;T%C3%A9cnico+em+Marketing+%2B+Inform%C3%A1tica+para+a+Internet;Foco+em+Arquitetura+de+Software+e+Experi%C3%AAncia+do+Usu%C3%A1rio" alt="Typing SVG" />
